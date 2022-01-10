@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  padding: 20px;
+  border: #61dafb 30px solid;
+  
+}
+body{
+  background-image: linear-gradient(to right,rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.39));
 }
 
 .App-logo {
